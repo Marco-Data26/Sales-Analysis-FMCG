@@ -9,7 +9,7 @@ This project includes two interactive Power BI dashboards for a chocolate compan
 
 The first dashboard focuses on sales performance, break down revenue by category,store type, region and time.
 
-The second dashboard analyzes profit, showing the relationship between profit and cost 
+The second dashboard analyzes profit across time, showing the relationship between profit and cost across category and region and the realtionship between profit, discount and quantity. 
 
 ## Data & Tools Used
 
