@@ -25,17 +25,17 @@ Provide a clear, data-driven view of the company's sales and profit performance.
 
 It aims to help stakeholders identify top-performing products, analyze profitability by region and category, and support strategic decisions to optimize revenue and margins. 
 
-## Dashboards Features
+## Dashboard Features
 
-- Interactive filters by years, gender, age group, loyalty member, store type and brand.
-- Drill-down analysis across time periods and across brand, category and product
-- Scatter chart to analyze the relationship between profit and discount by quantity.
-- Map visualization to compare revenue by city.
+- Interactive filters by year, gender, age group, loyalty membership, store type, and brand.
+- Drill-down analysis across time periods, brands, categories, and products.
+- Scatter chart to analyze the relationship between profit and discount, with quantity represented by point size.
+- Map visualization showing revenue distribution by city.
 
 ## Data Model 
 
 - Fact table: Sales.
-- Dimension tables: Products, Customers, Stores and Date.
+- Dimension tables: Products, Customers, Stores, and Date.
 - Relationships built using customer_id, product_id, store_id, and order_date.  
 
 ## Key Insights
