@@ -23,7 +23,7 @@ The second dashboard analyzes profit across time, showing the relationship betwe
 
 Provide a clear, data-driven view of the company's sales and profit performance.
 
-It aims to help stakeholders identify top-performing products, analyze profitability by region and category and guide strategic decisions to optimize revenue and margins.   
+It aims to help stakeholders identify top-performing products, analyze profitability by region and category, and guide strategic decisions to optimize revenue and margins.   
 
 ## Key Insights
 
