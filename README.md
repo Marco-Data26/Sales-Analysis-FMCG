@@ -34,8 +34,8 @@ It aims to help stakeholders identify top-performing products, analyze profitabi
 
 ## Data Model 
 
-- Fact table: Sales.
-- Dimension tables: Products, Customers, Stores, and Date.
+- Fact Table: Sales.
+- Dimension Tables: Products, Customers, Stores, and Date.
 - Relationships built using customer_id, product_id, store_id, and order_date.  
 
 ## Key Insights
