@@ -5,11 +5,11 @@
 
 ## Description
 
-This project includes two interactive Power BI dashboards for a chocolate company using Power Query and DAX.
+This project features two interactive Power BI dashboards for a chocolate company, using Power Query and DAX.
 
-The first dashboard focuses on sales performance, break down revenue by category,store type, region and time.
+The first dashboard focuses on sales performance, breaking down revenue by category, store type, region, and time.
 
-The second dashboard analyzes profit across time, showing the relationship between profit and cost across category and region ,and the realtionship between profit, discount and quantity. 
+The second dashboard analyzes profit over time, showing the relationship between profit and cost across categories and regions ,as well as the relationship between profit, discount, and quantity. 
 
 ## Data & Tools Used
 
