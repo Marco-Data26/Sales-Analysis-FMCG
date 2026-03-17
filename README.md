@@ -1,7 +1,7 @@
 # Sales-Analysis-Dashboard
 
-![gif](Chocolate_Sales.gif)
-![gif](Chocolate_Profit.gif)
+![gif](Chocolate.png)
+![gif](Chocolate.gif)
 
 ## Description
 
