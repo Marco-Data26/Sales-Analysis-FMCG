@@ -41,7 +41,8 @@ It aims to help stakeholders identify top-performing products, analyze profitabi
 - The total revenue over 2023 and 2024 was $25.5M, with a profit $10.2M. Both years achieved the same quantity and order numbers: 1.5M units and 500k orders in each year. the difference was in revenue: in 2023, revenue was $12.7M, while in 2024, revenue was $12.8M. However, the profit remained equal at $5.1M for both years.
 - The top product by revenue is the Dark Chocolate 50%, generating $1.8M, afterthat, Truffle Chocolate 80% achieved $1.6M, followed by Milk Chocolate 70%, with $1.4M.
 - The Airport store is the highest in revenue, contributing about 30% ($7.6M), while the retail store had the lowest share at 19% ($4.9M).
-- The top city by revenue is Toronto, with $4.6M, while the lowest revenue city id Berlin, with $2.6M due to th difference in the number of stores in each city.
+- The top city by revenue is Toronto, with $4.6M, while the lowest revenue city is Berlin, with $2.6M.
+- Toronto is the highest revenue per customer, with 94.4$, while the lowest is Berlin, with $59.1.
 - The top brand by revenue is ferrero, with $4.7M, while the lowest revenue brand is Hershey, with $3.5M.
 - Jan 2023 was the highest month, achieving $1.1M in revenue, while Feb 2023 was the lowest, with $969K.
 - Quarter 3 was the highest quarter in both years, achieving the greatest revenue in each year, while quarter 1 and quarter 2 were the lowest.
@@ -52,4 +53,8 @@ It aims to help stakeholders identify top-performing products, analyze profitabi
   
 ## Recommendations
 
-- 
+- Increase focus and investment in top-performing products, such as Dark Chocolate 50%, Truffle Chocolate 80%, and Milk Chocolate 70%, to maximize revenue.
+- Allocate more resources and prioritize airport stores, and refine the approach for retail stores. 
+ - Expand and optimize operations in Toronto, as the top city by revenue and revenue per customer.
+ - 
+ - 
