@@ -55,6 +55,8 @@ It aims to help stakeholders identify top-performing products, analyze profitabi
 
 - Increase focus and investment in top-performing products, such as Dark Chocolate 50%, Truffle Chocolate 80%, and Milk Chocolate 70%, to maximize revenue.
 - Allocate more resources and prioritize airport stores, and refine the approach for retail stores. 
- - Expand and optimize operations in Toronto, as the top city by revenue and revenue per customer.
- - 
- - 
+- Expand and optimize operations in Toronto, as the top city by revenue and revenue per customer.
+- Intensify promotional campaigns, and increase promotions, and special offers during quarter 3 to sustain and further boost the sales momentum. 
+- Develop more personalized marketing strategies based on customer behavior, purchase patterns, or product preferences, rather than demographic differences alone.
+- Re-evaluate the loyalty membership program, as the current loyalty offering is not effectively driving incremental value, and redesign the program to provide clear benefits and stronger incentives to drive member engagement and boost revenue.
+- Reduce or eliminate large discounts and instead focus on value-added strategies, such as bundling, loyalty rewards, or targed marketing, to drive sustainable growth.       
