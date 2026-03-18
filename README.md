@@ -57,6 +57,6 @@ It aims to help stakeholders identify top-performing products, analyze profitabi
 - Prioritize airport stores due to their high revenue contribution, while optimizing retail store performance through targeted strategies. 
 - Expand and optimize operations in Toronto, the top city by revenue and revenue per customer.
 - Intensify promotional campaigns and increase special offers during quarter 3 to sustain and further boost sales momentum. 
-- Shift from board demographic targeting to behavorial segmentation by leveraging customer purchase patterns and preferences to drive highly personalized marketing strategies.  
+- Shift from board demographic targeting to behavioral segmentation by leveraging customer purchase patterns and preferences to drive highly personalized marketing strategies.  
 - Re-evaluate the loyalty membership program, as the current loyalty offering is not effectively driving incremental value, and redesign it to provide clear benefits and stronger incentives to drive member engagement and boost revenue.
 - Reduce or eliminate large discounts and instead focus on value-added strategies, such as bundling, loyalty rewards, and targeted marketing, to drive sustainable growth.       
