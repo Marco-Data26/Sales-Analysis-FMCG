@@ -5,7 +5,7 @@
 
 ## Description
 
--This project features two interactive Power BI dashboards for a chocolate company, built using Power Query and DAX.
+-This project features an interactive Power BI dashboard for a chocolate company, built using Power Query and DAX.
 
 -The dashboard focuses on sales performance, breaking down revenue by category, store type, city, and time, and showing the relationship between profit, discount, and quantity. 
 
