@@ -20,7 +20,6 @@
 ## Objective
 
 Provide a clear, data-driven view of the company's sales and profit performance.
-
 It aims to help stakeholders identify top-performing products, analyze profitability by region and category, and support strategic decisions to optimize revenue and margins. 
 
 ## Dashboard Features
